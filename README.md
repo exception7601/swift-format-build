@@ -1,1 +1,1 @@
-# swift-format-build
+swift-format-build
